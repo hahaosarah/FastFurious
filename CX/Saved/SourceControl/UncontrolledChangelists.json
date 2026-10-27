@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/hahao/Downloads/CX/CX/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/UE5/CX/Content/UI/UI_Chat.uasset",
+				"C:/UE5/CX/Content/VehicleTemplate/Blueprints/W_VehicleAdvUI.uasset",
+				"C:/UE5/CX/Content/VehicleTemplate/Input/Actions/IA_Attack.uasset",
+				"C:/UE5/CX/Content/VehicleTemplate/Blueprints/SportsCar/BP_SportsCar_Pawn.uasset",
+				"C:/UE5/CX/Content/VehicleTemplate/Input/IMC_Default.uasset",
+				"C:/UE5/CX/Content/Item/BP_CoinItem.uasset",
+				"C:/UE5/CX/Content/Item/BP_SpeedBuffItem.uasset",
+				"C:/UE5/CX/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleAdvExampleMap/8/GO/TS1VPU7LOJ2C78MQWN0ZJY.uasset",
+				"C:/UE5/CX/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleAdvExampleMap/9/VE/0BZHRDBC8K24ARGTPQG2QW.uasset",
+				"C:/UE5/CX/Content/UI/UI_GameHUD.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset",
+				"C:/UE5/CX/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleAdvExampleMap/8/BB/MKOXLIWI58XO27X2B9U2NC.uasset",
+				"C:/UE5/CX/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleAdvExampleMap/E/3M/A3IBFYNGK3408321X2D6A9.uasset"
+			]
+		}
+	]
+}
