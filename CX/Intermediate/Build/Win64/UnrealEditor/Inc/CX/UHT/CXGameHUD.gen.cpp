@@ -197,14 +197,14 @@ UCXGameHUD::~UCXGameHUD() {}
 // ********** End Class UCXGameHUD *****************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_UE5_CX_Source_CX_UI_CXGameHUD_h__Script_CX_Statics
+struct Z_CompiledInDeferFile_FID_git_FastFurious_CX_Source_CX_UI_CXGameHUD_h__Script_CX_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UCXGameHUD, UCXGameHUD::StaticClass, TEXT("UCXGameHUD"), &Z_Registration_Info_UClass_UCXGameHUD, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UCXGameHUD), 241333003U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UE5_CX_Source_CX_UI_CXGameHUD_h__Script_CX_2541108101(TEXT("/Script/CX"),
-	Z_CompiledInDeferFile_FID_UE5_CX_Source_CX_UI_CXGameHUD_h__Script_CX_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UE5_CX_Source_CX_UI_CXGameHUD_h__Script_CX_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_git_FastFurious_CX_Source_CX_UI_CXGameHUD_h__Script_CX_2541108101(TEXT("/Script/CX"),
+	Z_CompiledInDeferFile_FID_git_FastFurious_CX_Source_CX_UI_CXGameHUD_h__Script_CX_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_git_FastFurious_CX_Source_CX_UI_CXGameHUD_h__Script_CX_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

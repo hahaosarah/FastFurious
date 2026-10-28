@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct FChatData;
 
 // ********** Begin Class ACXPlayerController ******************************************************
-#define FID_UE5_CX_Source_CX_CXPlayerController_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_git_FastFurious_CX_Source_CX_CXPlayerController_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual void STCChatMessage_Implementation(const FString& Sender, const FString& Message); \
 	virtual void CTSChatMessage_Implementation(const FString& Message); \
 	virtual void STCChatLog_Implementation(TArray<FChatData> const& ChatLog); \
@@ -28,10 +28,10 @@ struct FChatData;
 	DECLARE_FUNCTION(execSTCChatLog);
 
 
-#define FID_UE5_CX_Source_CX_CXPlayerController_h_21_CALLBACK_WRAPPERS
+#define FID_git_FastFurious_CX_Source_CX_CXPlayerController_h_21_CALLBACK_WRAPPERS
 CX_API UClass* Z_Construct_UClass_ACXPlayerController_NoRegister();
 
-#define FID_UE5_CX_Source_CX_CXPlayerController_h_21_INCLASS_NO_PURE_DECLS \
+#define FID_git_FastFurious_CX_Source_CX_CXPlayerController_h_21_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesACXPlayerController(); \
 	friend struct Z_Construct_UClass_ACXPlayerController_Statics; \
@@ -48,7 +48,7 @@ public: \
 	DECLARE_VALIDATE_GENERATED_REP_ENUMS(NO_API)
 
 
-#define FID_UE5_CX_Source_CX_CXPlayerController_h_21_ENHANCED_CONSTRUCTORS \
+#define FID_git_FastFurious_CX_Source_CX_CXPlayerController_h_21_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ACXPlayerController(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -60,14 +60,14 @@ public: \
 	NO_API virtual ~ACXPlayerController();
 
 
-#define FID_UE5_CX_Source_CX_CXPlayerController_h_18_PROLOG
-#define FID_UE5_CX_Source_CX_CXPlayerController_h_21_GENERATED_BODY \
+#define FID_git_FastFurious_CX_Source_CX_CXPlayerController_h_18_PROLOG
+#define FID_git_FastFurious_CX_Source_CX_CXPlayerController_h_21_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_UE5_CX_Source_CX_CXPlayerController_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_UE5_CX_Source_CX_CXPlayerController_h_21_CALLBACK_WRAPPERS \
-	FID_UE5_CX_Source_CX_CXPlayerController_h_21_INCLASS_NO_PURE_DECLS \
-	FID_UE5_CX_Source_CX_CXPlayerController_h_21_ENHANCED_CONSTRUCTORS \
+	FID_git_FastFurious_CX_Source_CX_CXPlayerController_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_git_FastFurious_CX_Source_CX_CXPlayerController_h_21_CALLBACK_WRAPPERS \
+	FID_git_FastFurious_CX_Source_CX_CXPlayerController_h_21_INCLASS_NO_PURE_DECLS \
+	FID_git_FastFurious_CX_Source_CX_CXPlayerController_h_21_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -77,6 +77,6 @@ class ACXPlayerController;
 // ********** End Class ACXPlayerController ********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_UE5_CX_Source_CX_CXPlayerController_h
+#define CURRENT_FILE_ID FID_git_FastFurious_CX_Source_CX_CXPlayerController_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -3,6 +3,7 @@
 #include "C:/UE5/CX/Intermediate/Build/Win64/UnrealEditor/Inc/CX/UHT/ChatUI.gen.cpp"
 #include "C:/UE5/CX/Intermediate/Build/Win64/UnrealEditor/Inc/CX/UHT/CX.init.gen.cpp"
 #include "C:/UE5/CX/Intermediate/Build/Win64/UnrealEditor/Inc/CX/UHT/CXCoinItem.gen.cpp"
+#include "C:/UE5/CX/Intermediate/Build/Win64/UnrealEditor/Inc/CX/UHT/CXGameHUD.gen.cpp"
 #include "C:/UE5/CX/Intermediate/Build/Win64/UnrealEditor/Inc/CX/UHT/CXGameMode.gen.cpp"
 #include "C:/UE5/CX/Intermediate/Build/Win64/UnrealEditor/Inc/CX/UHT/CXGameState.gen.cpp"
 #include "C:/UE5/CX/Intermediate/Build/Win64/UnrealEditor/Inc/CX/UHT/CXItemSpawner.gen.cpp"

@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class UCXSportsWheelFront ******************************************************
 CX_API UClass* Z_Construct_UClass_UCXSportsWheelFront_NoRegister();
 
-#define FID_UE5_CX_Source_CX_CXSportsWheelFront_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_git_FastFurious_CX_Source_CX_CXSportsWheelFront_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUCXSportsWheelFront(); \
 	friend struct Z_Construct_UClass_UCXSportsWheelFront_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(UCXSportsWheelFront)
 
 
-#define FID_UE5_CX_Source_CX_CXSportsWheelFront_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_git_FastFurious_CX_Source_CX_CXSportsWheelFront_h_15_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UCXSportsWheelFront(UCXSportsWheelFront&&) = delete; \
 	UCXSportsWheelFront(const UCXSportsWheelFront&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~UCXSportsWheelFront();
 
 
-#define FID_UE5_CX_Source_CX_CXSportsWheelFront_h_12_PROLOG
-#define FID_UE5_CX_Source_CX_CXSportsWheelFront_h_15_GENERATED_BODY \
+#define FID_git_FastFurious_CX_Source_CX_CXSportsWheelFront_h_12_PROLOG
+#define FID_git_FastFurious_CX_Source_CX_CXSportsWheelFront_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_UE5_CX_Source_CX_CXSportsWheelFront_h_15_INCLASS_NO_PURE_DECLS \
-	FID_UE5_CX_Source_CX_CXSportsWheelFront_h_15_ENHANCED_CONSTRUCTORS \
+	FID_git_FastFurious_CX_Source_CX_CXSportsWheelFront_h_15_INCLASS_NO_PURE_DECLS \
+	FID_git_FastFurious_CX_Source_CX_CXSportsWheelFront_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,6 +55,6 @@ class UCXSportsWheelFront;
 // ********** End Class UCXSportsWheelFront ********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_UE5_CX_Source_CX_CXSportsWheelFront_h
+#define CURRENT_FILE_ID FID_git_FastFurious_CX_Source_CX_CXSportsWheelFront_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

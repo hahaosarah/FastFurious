@@ -165,7 +165,7 @@ UChatSubsystem::~UChatSubsystem() {}
 // ********** End Class UChatSubsystem *************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_UE5_CX_Source_CX_Subsystem_ChatSubsystem_h__Script_CX_Statics
+struct Z_CompiledInDeferFile_FID_git_FastFurious_CX_Source_CX_Subsystem_ChatSubsystem_h__Script_CX_Statics
 {
 	static constexpr FStructRegisterCompiledInInfo ScriptStructInfo[] = {
 		{ FChatData::StaticStruct, Z_Construct_UScriptStruct_FChatData_Statics::NewStructOps, TEXT("ChatData"), &Z_Registration_Info_UScriptStruct_FChatData, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FChatData), 1073882534U) },
@@ -174,9 +174,9 @@ struct Z_CompiledInDeferFile_FID_UE5_CX_Source_CX_Subsystem_ChatSubsystem_h__Scr
 		{ Z_Construct_UClass_UChatSubsystem, UChatSubsystem::StaticClass, TEXT("UChatSubsystem"), &Z_Registration_Info_UClass_UChatSubsystem, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UChatSubsystem), 3202468332U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UE5_CX_Source_CX_Subsystem_ChatSubsystem_h__Script_CX_358006988(TEXT("/Script/CX"),
-	Z_CompiledInDeferFile_FID_UE5_CX_Source_CX_Subsystem_ChatSubsystem_h__Script_CX_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UE5_CX_Source_CX_Subsystem_ChatSubsystem_h__Script_CX_Statics::ClassInfo),
-	Z_CompiledInDeferFile_FID_UE5_CX_Source_CX_Subsystem_ChatSubsystem_h__Script_CX_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UE5_CX_Source_CX_Subsystem_ChatSubsystem_h__Script_CX_Statics::ScriptStructInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_git_FastFurious_CX_Source_CX_Subsystem_ChatSubsystem_h__Script_CX_358006988(TEXT("/Script/CX"),
+	Z_CompiledInDeferFile_FID_git_FastFurious_CX_Source_CX_Subsystem_ChatSubsystem_h__Script_CX_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_git_FastFurious_CX_Source_CX_Subsystem_ChatSubsystem_h__Script_CX_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_git_FastFurious_CX_Source_CX_Subsystem_ChatSubsystem_h__Script_CX_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_git_FastFurious_CX_Source_CX_Subsystem_ChatSubsystem_h__Script_CX_Statics::ScriptStructInfo),
 	nullptr, 0);
 // ********** End Registration *********************************************************************
 

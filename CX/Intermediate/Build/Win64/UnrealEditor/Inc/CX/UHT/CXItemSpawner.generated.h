@@ -19,13 +19,13 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 class AActor;
 
 // ********** Begin Class ACXItemSpawner ***********************************************************
-#define FID_UE5_CX_Source_CX_Item_CXItemSpawner_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_git_FastFurious_CX_Source_CX_Item_CXItemSpawner_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execOnItemDestroyed);
 
 
 CX_API UClass* Z_Construct_UClass_ACXItemSpawner_NoRegister();
 
-#define FID_UE5_CX_Source_CX_Item_CXItemSpawner_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_git_FastFurious_CX_Source_CX_Item_CXItemSpawner_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesACXItemSpawner(); \
 	friend struct Z_Construct_UClass_ACXItemSpawner_Statics; \
@@ -36,7 +36,7 @@ public: \
 	DECLARE_SERIALIZER(ACXItemSpawner)
 
 
-#define FID_UE5_CX_Source_CX_Item_CXItemSpawner_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_git_FastFurious_CX_Source_CX_Item_CXItemSpawner_h_15_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	ACXItemSpawner(ACXItemSpawner&&) = delete; \
 	ACXItemSpawner(const ACXItemSpawner&) = delete; \
@@ -46,13 +46,13 @@ public: \
 	NO_API virtual ~ACXItemSpawner();
 
 
-#define FID_UE5_CX_Source_CX_Item_CXItemSpawner_h_12_PROLOG
-#define FID_UE5_CX_Source_CX_Item_CXItemSpawner_h_15_GENERATED_BODY \
+#define FID_git_FastFurious_CX_Source_CX_Item_CXItemSpawner_h_12_PROLOG
+#define FID_git_FastFurious_CX_Source_CX_Item_CXItemSpawner_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_UE5_CX_Source_CX_Item_CXItemSpawner_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_UE5_CX_Source_CX_Item_CXItemSpawner_h_15_INCLASS_NO_PURE_DECLS \
-	FID_UE5_CX_Source_CX_Item_CXItemSpawner_h_15_ENHANCED_CONSTRUCTORS \
+	FID_git_FastFurious_CX_Source_CX_Item_CXItemSpawner_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_git_FastFurious_CX_Source_CX_Item_CXItemSpawner_h_15_INCLASS_NO_PURE_DECLS \
+	FID_git_FastFurious_CX_Source_CX_Item_CXItemSpawner_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -62,6 +62,6 @@ class ACXItemSpawner;
 // ********** End Class ACXItemSpawner *************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_UE5_CX_Source_CX_Item_CXItemSpawner_h
+#define CURRENT_FILE_ID FID_git_FastFurious_CX_Source_CX_Item_CXItemSpawner_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

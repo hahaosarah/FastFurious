@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class ACXGameMode **************************************************************
 CX_API UClass* Z_Construct_UClass_ACXGameMode_NoRegister();
 
-#define FID_UE5_CX_Source_CX_CXGameMode_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_git_FastFurious_CX_Source_CX_CXGameMode_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesACXGameMode(); \
 	friend struct Z_Construct_UClass_ACXGameMode_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(ACXGameMode)
 
 
-#define FID_UE5_CX_Source_CX_CXGameMode_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_git_FastFurious_CX_Source_CX_CXGameMode_h_12_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	ACXGameMode(ACXGameMode&&) = delete; \
 	ACXGameMode(const ACXGameMode&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	CX_API virtual ~ACXGameMode();
 
 
-#define FID_UE5_CX_Source_CX_CXGameMode_h_9_PROLOG
-#define FID_UE5_CX_Source_CX_CXGameMode_h_12_GENERATED_BODY \
+#define FID_git_FastFurious_CX_Source_CX_CXGameMode_h_9_PROLOG
+#define FID_git_FastFurious_CX_Source_CX_CXGameMode_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_UE5_CX_Source_CX_CXGameMode_h_12_INCLASS_NO_PURE_DECLS \
-	FID_UE5_CX_Source_CX_CXGameMode_h_12_ENHANCED_CONSTRUCTORS \
+	FID_git_FastFurious_CX_Source_CX_CXGameMode_h_12_INCLASS_NO_PURE_DECLS \
+	FID_git_FastFurious_CX_Source_CX_CXGameMode_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,6 +55,6 @@ class ACXGameMode;
 // ********** End Class ACXGameMode ****************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_UE5_CX_Source_CX_CXGameMode_h
+#define CURRENT_FILE_ID FID_git_FastFurious_CX_Source_CX_CXGameMode_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

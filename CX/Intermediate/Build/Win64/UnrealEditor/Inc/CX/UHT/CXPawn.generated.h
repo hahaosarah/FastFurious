@@ -17,17 +17,17 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class ACXPawn ******************************************************************
-#define FID_UE5_CX_Source_CX_CXPawn_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_git_FastFurious_CX_Source_CX_CXPawn_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual void CTSAttack_Implementation(); \
 	virtual void MulticastHitEffect_Implementation(FVector const& TraceStart, FVector const& TraceEnd, bool bHitVehicle, FVector const& ImpactPoint, FVector const& ImpactNotmal); \
 	DECLARE_FUNCTION(execCTSAttack); \
 	DECLARE_FUNCTION(execMulticastHitEffect);
 
 
-#define FID_UE5_CX_Source_CX_CXPawn_h_28_CALLBACK_WRAPPERS
+#define FID_git_FastFurious_CX_Source_CX_CXPawn_h_28_CALLBACK_WRAPPERS
 CX_API UClass* Z_Construct_UClass_ACXPawn_NoRegister();
 
-#define FID_UE5_CX_Source_CX_CXPawn_h_28_INCLASS_NO_PURE_DECLS \
+#define FID_git_FastFurious_CX_Source_CX_CXPawn_h_28_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesACXPawn(); \
 	friend struct Z_Construct_UClass_ACXPawn_Statics; \
@@ -38,7 +38,7 @@ public: \
 	DECLARE_SERIALIZER(ACXPawn)
 
 
-#define FID_UE5_CX_Source_CX_CXPawn_h_28_ENHANCED_CONSTRUCTORS \
+#define FID_git_FastFurious_CX_Source_CX_CXPawn_h_28_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	ACXPawn(ACXPawn&&) = delete; \
 	ACXPawn(const ACXPawn&) = delete; \
@@ -48,14 +48,14 @@ public: \
 	NO_API virtual ~ACXPawn();
 
 
-#define FID_UE5_CX_Source_CX_CXPawn_h_25_PROLOG
-#define FID_UE5_CX_Source_CX_CXPawn_h_28_GENERATED_BODY \
+#define FID_git_FastFurious_CX_Source_CX_CXPawn_h_25_PROLOG
+#define FID_git_FastFurious_CX_Source_CX_CXPawn_h_28_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_UE5_CX_Source_CX_CXPawn_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_UE5_CX_Source_CX_CXPawn_h_28_CALLBACK_WRAPPERS \
-	FID_UE5_CX_Source_CX_CXPawn_h_28_INCLASS_NO_PURE_DECLS \
-	FID_UE5_CX_Source_CX_CXPawn_h_28_ENHANCED_CONSTRUCTORS \
+	FID_git_FastFurious_CX_Source_CX_CXPawn_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_git_FastFurious_CX_Source_CX_CXPawn_h_28_CALLBACK_WRAPPERS \
+	FID_git_FastFurious_CX_Source_CX_CXPawn_h_28_INCLASS_NO_PURE_DECLS \
+	FID_git_FastFurious_CX_Source_CX_CXPawn_h_28_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -65,6 +65,6 @@ class ACXPawn;
 // ********** End Class ACXPawn ********************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_UE5_CX_Source_CX_CXPawn_h
+#define CURRENT_FILE_ID FID_git_FastFurious_CX_Source_CX_CXPawn_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

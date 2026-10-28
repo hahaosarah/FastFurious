@@ -276,14 +276,14 @@ ACXCoinItem::~ACXCoinItem() {}
 // ********** End Class ACXCoinItem ****************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_UE5_CX_Source_CX_Item_CXCoinItem_h__Script_CX_Statics
+struct Z_CompiledInDeferFile_FID_git_FastFurious_CX_Source_CX_Item_CXCoinItem_h__Script_CX_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ACXCoinItem, ACXCoinItem::StaticClass, TEXT("ACXCoinItem"), &Z_Registration_Info_UClass_ACXCoinItem, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ACXCoinItem), 1317228991U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UE5_CX_Source_CX_Item_CXCoinItem_h__Script_CX_702624302(TEXT("/Script/CX"),
-	Z_CompiledInDeferFile_FID_UE5_CX_Source_CX_Item_CXCoinItem_h__Script_CX_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UE5_CX_Source_CX_Item_CXCoinItem_h__Script_CX_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_git_FastFurious_CX_Source_CX_Item_CXCoinItem_h__Script_CX_702624302(TEXT("/Script/CX"),
+	Z_CompiledInDeferFile_FID_git_FastFurious_CX_Source_CX_Item_CXCoinItem_h__Script_CX_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_git_FastFurious_CX_Source_CX_Item_CXCoinItem_h__Script_CX_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

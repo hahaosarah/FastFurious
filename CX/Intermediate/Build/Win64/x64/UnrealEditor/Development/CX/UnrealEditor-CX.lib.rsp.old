@@ -28,5 +28,6 @@
 "C:/UE5/CX/Intermediate/Build/Win64/x64/UnrealEditor/Development/CX/CXPlayerState.cpp.obj"
 "C:/UE5/CX/Intermediate/Build/Win64/x64/UnrealEditor/Development/CX/ChatSubsystem.cpp.obj"
 "C:/UE5/CX/Intermediate/Build/Win64/x64/UnrealEditor/Development/CX/ChatUI.cpp.obj"
+"C:/UE5/CX/Intermediate/Build/Win64/x64/UnrealEditor/Development/CX/CXGameHUD.cpp.obj"
 "C:/UE5/CX/Intermediate/Build/Win64/x64/UnrealEditor/Development/CX/Default.rc2.res"
 /OUT:"C:/UE5/CX/Intermediate/Build/Win64/x64/UnrealEditor/Development/CX/UnrealEditor-CX.lib"

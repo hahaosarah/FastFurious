@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\UE5\\CX\\Source\\CX\\CX.Build.cs",
-		"C:\\UE5\\CX\\Source\\CX.Target.cs",
-		"C:\\UE5\\CX\\Source\\CXEditor.Target.cs"
+		"C:\\git\\FastFurious\\CX\\Source\\CX\\CX.Build.cs",
+		"C:\\git\\FastFurious\\CX\\Source\\CX.Target.cs",
+		"C:\\git\\FastFurious\\CX\\Source\\CXEditor.Target.cs"
 	],
 	"EngineVersion": "5.6.1"
 }

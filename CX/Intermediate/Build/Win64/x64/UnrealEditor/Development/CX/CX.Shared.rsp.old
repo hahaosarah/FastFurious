@@ -283,6 +283,7 @@
 /I "../Intermediate/Build/Win64/UnrealEditor/Inc/AnimationEditMode/UHT"
 /I "Editor/AnimationEditMode/Public"
 /I "C:/UE5/CX/Intermediate/Build/Win64/UnrealEditor/Inc/CX/UHT"
+/I "C:/UE5/CX/Source/CX"
 /I "C:/UE5/CX/Source"
 /I "../Plugins/EnhancedInput/Intermediate/Build/Win64/UnrealEditor/Inc/EnhancedInput/UHT"
 /I "../Plugins/EnhancedInput/Source"

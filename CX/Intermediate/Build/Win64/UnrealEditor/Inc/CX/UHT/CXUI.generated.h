@@ -17,10 +17,10 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class UCXUI ********************************************************************
-#define FID_UE5_CX_Source_CX_CXUI_h_20_CALLBACK_WRAPPERS
+#define FID_git_FastFurious_CX_Source_CX_CXUI_h_20_CALLBACK_WRAPPERS
 CX_API UClass* Z_Construct_UClass_UCXUI_NoRegister();
 
-#define FID_UE5_CX_Source_CX_CXUI_h_20_INCLASS_NO_PURE_DECLS \
+#define FID_git_FastFurious_CX_Source_CX_CXUI_h_20_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUCXUI(); \
 	friend struct Z_Construct_UClass_UCXUI_Statics; \
@@ -31,7 +31,7 @@ public: \
 	DECLARE_SERIALIZER(UCXUI)
 
 
-#define FID_UE5_CX_Source_CX_CXUI_h_20_ENHANCED_CONSTRUCTORS \
+#define FID_git_FastFurious_CX_Source_CX_CXUI_h_20_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UCXUI(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -43,13 +43,13 @@ public: \
 	NO_API virtual ~UCXUI();
 
 
-#define FID_UE5_CX_Source_CX_CXUI_h_17_PROLOG
-#define FID_UE5_CX_Source_CX_CXUI_h_20_GENERATED_BODY \
+#define FID_git_FastFurious_CX_Source_CX_CXUI_h_17_PROLOG
+#define FID_git_FastFurious_CX_Source_CX_CXUI_h_20_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_UE5_CX_Source_CX_CXUI_h_20_CALLBACK_WRAPPERS \
-	FID_UE5_CX_Source_CX_CXUI_h_20_INCLASS_NO_PURE_DECLS \
-	FID_UE5_CX_Source_CX_CXUI_h_20_ENHANCED_CONSTRUCTORS \
+	FID_git_FastFurious_CX_Source_CX_CXUI_h_20_CALLBACK_WRAPPERS \
+	FID_git_FastFurious_CX_Source_CX_CXUI_h_20_INCLASS_NO_PURE_DECLS \
+	FID_git_FastFurious_CX_Source_CX_CXUI_h_20_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -59,6 +59,6 @@ class UCXUI;
 // ********** End Class UCXUI **********************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_UE5_CX_Source_CX_CXUI_h
+#define CURRENT_FILE_ID FID_git_FastFurious_CX_Source_CX_CXUI_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

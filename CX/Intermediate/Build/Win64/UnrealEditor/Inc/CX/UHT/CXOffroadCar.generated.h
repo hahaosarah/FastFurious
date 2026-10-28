@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class ACXOffroadCar ************************************************************
 CX_API UClass* Z_Construct_UClass_ACXOffroadCar_NoRegister();
 
-#define FID_UE5_CX_Source_CX_CXOffroadCar_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_git_FastFurious_CX_Source_CX_CXOffroadCar_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesACXOffroadCar(); \
 	friend struct Z_Construct_UClass_ACXOffroadCar_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(ACXOffroadCar)
 
 
-#define FID_UE5_CX_Source_CX_CXOffroadCar_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_git_FastFurious_CX_Source_CX_CXOffroadCar_h_15_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	ACXOffroadCar(ACXOffroadCar&&) = delete; \
 	ACXOffroadCar(const ACXOffroadCar&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~ACXOffroadCar();
 
 
-#define FID_UE5_CX_Source_CX_CXOffroadCar_h_12_PROLOG
-#define FID_UE5_CX_Source_CX_CXOffroadCar_h_15_GENERATED_BODY \
+#define FID_git_FastFurious_CX_Source_CX_CXOffroadCar_h_12_PROLOG
+#define FID_git_FastFurious_CX_Source_CX_CXOffroadCar_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_UE5_CX_Source_CX_CXOffroadCar_h_15_INCLASS_NO_PURE_DECLS \
-	FID_UE5_CX_Source_CX_CXOffroadCar_h_15_ENHANCED_CONSTRUCTORS \
+	FID_git_FastFurious_CX_Source_CX_CXOffroadCar_h_15_INCLASS_NO_PURE_DECLS \
+	FID_git_FastFurious_CX_Source_CX_CXOffroadCar_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,6 +55,6 @@ class ACXOffroadCar;
 // ********** End Class ACXOffroadCar **************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_UE5_CX_Source_CX_CXOffroadCar_h
+#define CURRENT_FILE_ID FID_git_FastFurious_CX_Source_CX_CXOffroadCar_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

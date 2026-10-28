@@ -185,14 +185,14 @@ ACXOffroadCar::~ACXOffroadCar() {}
 // ********** End Class ACXOffroadCar **************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_UE5_CX_Source_CX_CXOffroadCar_h__Script_CX_Statics
+struct Z_CompiledInDeferFile_FID_git_FastFurious_CX_Source_CX_CXOffroadCar_h__Script_CX_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ACXOffroadCar, ACXOffroadCar::StaticClass, TEXT("ACXOffroadCar"), &Z_Registration_Info_UClass_ACXOffroadCar, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ACXOffroadCar), 718433260U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UE5_CX_Source_CX_CXOffroadCar_h__Script_CX_3064065239(TEXT("/Script/CX"),
-	Z_CompiledInDeferFile_FID_UE5_CX_Source_CX_CXOffroadCar_h__Script_CX_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UE5_CX_Source_CX_CXOffroadCar_h__Script_CX_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_git_FastFurious_CX_Source_CX_CXOffroadCar_h__Script_CX_3064065239(TEXT("/Script/CX"),
+	Z_CompiledInDeferFile_FID_git_FastFurious_CX_Source_CX_CXOffroadCar_h__Script_CX_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_git_FastFurious_CX_Source_CX_CXOffroadCar_h__Script_CX_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

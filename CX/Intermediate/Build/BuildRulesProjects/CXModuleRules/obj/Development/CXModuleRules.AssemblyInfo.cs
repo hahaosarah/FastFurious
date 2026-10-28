@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CXModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22d2d7e24cae55c3b8bcc4ce03fb96852b747a93")]
 [assembly: System.Reflection.AssemblyProductAttribute("CXModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CXModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

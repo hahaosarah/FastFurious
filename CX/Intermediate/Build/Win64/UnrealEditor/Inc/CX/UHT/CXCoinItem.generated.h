@@ -21,16 +21,16 @@ class UPrimitiveComponent;
 struct FHitResult;
 
 // ********** Begin Class ACXCoinItem **************************************************************
-#define FID_UE5_CX_Source_CX_Item_CXCoinItem_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_git_FastFurious_CX_Source_CX_Item_CXCoinItem_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual void MulticastPickupEffects_Implementation(); \
 	DECLARE_FUNCTION(execMulticastPickupEffects); \
 	DECLARE_FUNCTION(execOnOverlapSphereBeginOverlap);
 
 
-#define FID_UE5_CX_Source_CX_Item_CXCoinItem_h_18_CALLBACK_WRAPPERS
+#define FID_git_FastFurious_CX_Source_CX_Item_CXCoinItem_h_18_CALLBACK_WRAPPERS
 CX_API UClass* Z_Construct_UClass_ACXCoinItem_NoRegister();
 
-#define FID_UE5_CX_Source_CX_Item_CXCoinItem_h_18_INCLASS_NO_PURE_DECLS \
+#define FID_git_FastFurious_CX_Source_CX_Item_CXCoinItem_h_18_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesACXCoinItem(); \
 	friend struct Z_Construct_UClass_ACXCoinItem_Statics; \
@@ -41,7 +41,7 @@ public: \
 	DECLARE_SERIALIZER(ACXCoinItem)
 
 
-#define FID_UE5_CX_Source_CX_Item_CXCoinItem_h_18_ENHANCED_CONSTRUCTORS \
+#define FID_git_FastFurious_CX_Source_CX_Item_CXCoinItem_h_18_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	ACXCoinItem(ACXCoinItem&&) = delete; \
 	ACXCoinItem(const ACXCoinItem&) = delete; \
@@ -51,14 +51,14 @@ public: \
 	NO_API virtual ~ACXCoinItem();
 
 
-#define FID_UE5_CX_Source_CX_Item_CXCoinItem_h_15_PROLOG
-#define FID_UE5_CX_Source_CX_Item_CXCoinItem_h_18_GENERATED_BODY \
+#define FID_git_FastFurious_CX_Source_CX_Item_CXCoinItem_h_15_PROLOG
+#define FID_git_FastFurious_CX_Source_CX_Item_CXCoinItem_h_18_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_UE5_CX_Source_CX_Item_CXCoinItem_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_UE5_CX_Source_CX_Item_CXCoinItem_h_18_CALLBACK_WRAPPERS \
-	FID_UE5_CX_Source_CX_Item_CXCoinItem_h_18_INCLASS_NO_PURE_DECLS \
-	FID_UE5_CX_Source_CX_Item_CXCoinItem_h_18_ENHANCED_CONSTRUCTORS \
+	FID_git_FastFurious_CX_Source_CX_Item_CXCoinItem_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_git_FastFurious_CX_Source_CX_Item_CXCoinItem_h_18_CALLBACK_WRAPPERS \
+	FID_git_FastFurious_CX_Source_CX_Item_CXCoinItem_h_18_INCLASS_NO_PURE_DECLS \
+	FID_git_FastFurious_CX_Source_CX_Item_CXCoinItem_h_18_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -68,6 +68,6 @@ class ACXCoinItem;
 // ********** End Class ACXCoinItem ****************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_UE5_CX_Source_CX_Item_CXCoinItem_h
+#define CURRENT_FILE_ID FID_git_FastFurious_CX_Source_CX_Item_CXCoinItem_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
